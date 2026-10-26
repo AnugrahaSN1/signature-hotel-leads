@@ -7,8 +7,6 @@ Describe a hotel or project in one sentence, in French or English. Signature rec
 
 <p align="center"><img src="demo_lead_chateau.png" width="600" alt="A château near Bordeaux qualified as Emblems Heritage"></p>
 
-<p align="center"><b>▶ <a href="Signature_demo.mp4">Watch the 1-minute demo</a></b></p>
-
 ## Why
 
 Accor's luxury development team has seen leads triple since 2023. More leads means more time spent sorting them. Signature does the first pass in seconds, so developers spend their time on the hotels worth signing.
